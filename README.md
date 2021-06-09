@@ -1,3 +1,7 @@
+### Stephen Lee
+### CPSC 386-01
+### stephenjonglee@csu.fullerton.edu
+
 # Coin Dart
 
 ## General Overview:
@@ -7,7 +11,7 @@ This game is similar to playing darts. Instead of throwing darts, you will be fl
 The objective of the game is to flick the coin and make it land on the target. The most ideal spot is in the middle of the paper. You win if you get the most points.
 
 ## Rules
-The rule is you have to start at the indicated line and place your quarter flat on the surface. You flick the quarter into the paper. If the quarter lands on the line, then decide the tie by where the majority of the quarter is on. If you can't decide and think it's dead even, then flip the quarter to decide the score (for example, 10 points if head or 20 if tails). If you miss the paper, then you get 0 points. You can flick any way you like. The two most common ways is with index finger or with your thumb.
+The rule is you have to start at the indicated line and place your quarter flat on the surface. You flick the quarter into the paper. If the quarter lands on the line, then decide the tie by where the majority of the quarter is on. If you can't decide and think it's dead even, then flip the quarter to decide the score (for example, 10 points if head or 25 if tails). If you miss the paper, then you get 0 points. You can flick any way you like. The two most common ways is with index finger or with your thumb. If there is a tie in score, play an extra round as the tie breaker. Keep going if the tie continues.
 
 ## Setting up the game
 You need to draw on the piece of paper 3 circles with one within another. It should look like a target. Try to make the circles evenly spaced out. Label the points on the paper between the circle lines. The middle should be the highest points and it gets reduced as the circle gets farther away. 50 points in the middle, 25 points in the second area, then 10 after, and finally 5 outside the circle.
