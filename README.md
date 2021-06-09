@@ -24,9 +24,11 @@ To make the game more challenging, you can:
 * place the target farther away
 
 ## Images
+Materials needed
 ![Materials](images/materials.jpeg)
+Draw the Target
 ![Example of target](images/target.jpeg)
+Setup
 ![Setup](images/setup.jpeg)
-![Where to start](images/start.jpeg)
-![Example of how to flick](images/flick.jpeg)
-![Example of where the coin landed, 10 points](images/objective.jpeg)
+Play the game
+![Play the game](images/flick.jpeg)
